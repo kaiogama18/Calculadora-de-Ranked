@@ -1,5 +1,6 @@
-Instruções
- # 2️⃣ Calculadora de partidas Rankeadas
+# Instruções
+
+## 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
 - Variáveis
